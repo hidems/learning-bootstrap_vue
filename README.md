@@ -24,3 +24,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ```
 npm install vue bootstrap-vue bootstrap
 ```
+
+## Ref
+Bootstrap 4 Cheat sheet: https://hackerthemes.com/bootstrap-cheatsheet/
