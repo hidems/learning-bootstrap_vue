@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Multiple Checkbox</h1>
+    <h1>Multiple Checkbox with Custom CSS</h1>
     <b-form-group class="mt-2">
       <b-input-group prepend="Text">
         <b-form-input></b-form-input>
