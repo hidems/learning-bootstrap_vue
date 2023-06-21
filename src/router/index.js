@@ -2,7 +2,7 @@ import Vue from 'vue';
 import BootstrapVue from 'bootstrap-vue';
 import Router from 'vue-router';
 import HelloWorld from '@/components/HelloWorld';
-import test1 from '@/components/test1';
+import MultiCheckbox from '@/components/MultiCheckbox';
 import test2 from '@/components/test2';
 import test3 from '@/components/test3';
 
@@ -20,9 +20,9 @@ export default new Router({
       component: HelloWorld,
     },
     {
-      path: '/test1',
-      name: 'test1',
-      component: test1,
+      path: '/multi_checkbox',
+      name: 'MultiCheckbox',
+      component: MultiCheckbox,
     },
     {
       path: '/test2',

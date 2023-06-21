@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <myheader/>
-    <img src="./assets/logo.png">
     <router-view/>
     <button class="btn btn-primary">test</button>
   </div>
